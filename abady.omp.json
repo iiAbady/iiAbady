@@ -39,7 +39,7 @@
       "segments": [
         {
           "foreground": "#ACB0BE",
-          "style": "p:closer",
+          "style": "plain",
           "template": "\uf105",
           "type": "text"
         }
