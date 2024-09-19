@@ -5,7 +5,7 @@
       "alignment": "left",
       "segments": [
         {
-          "foreground": "#ffffff",
+          "foreground": "#ececec",
           "properties": {
             "style": "full"
           },
@@ -36,12 +36,11 @@
     },
     {
       "alignment": "left",
-      "newline": true,
       "segments": [
         {
-          "foreground": "#007ACC",
-          "style": "plain",
-          "template": "\ue602",
+          "foreground": "#ACB0BE",
+          "style": "p:closer",
+          "template": "\uf105",
           "type": "text"
         }
       ],
@@ -49,5 +48,5 @@
     }
   ],
   "final_space": true,
-  "version": 1
+  "version": 2
 }
